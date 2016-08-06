@@ -1,3 +1,3 @@
-# Turtlebot Interactions
+# RVIZ interactions for iRobot Create 2
 
-This is the evolution of the [turtlebot_viz](https://github.com/turtlebot/turtlebot_viz) stack supporting user side interactions with the turtlebot. It was first released in indigo.
+This contains drivers for Create 2 to allow users interact with the robot via RVIZ tool.
